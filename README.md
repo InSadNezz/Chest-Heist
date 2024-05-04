@@ -1,6 +1,6 @@
 # Chest-Heist  
   
-Chest Heist is simple platformer game designed by me. It's a pretty dumb game. I'll wish you don't waste your time to play this ...  
+Chest Heist is a simple platformer game designed by me. It's a pretty dumb game. I wish you wouldn't waste your time playing this...   
   
   
 ## Controls  
