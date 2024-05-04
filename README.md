@@ -5,5 +5,5 @@ Chest Heist is simple platformer game designed by me. It's a pretty dumb game. I
   
 ## Controls  
 **Move Right** &nbsp; &nbsp;  --> &nbsp;&nbsp;&nbsp;&nbsp;  RightArrowKey  
-**Move Left** &nbsp; &nbsp;  --> &nbsp;&nbsp;&nbsp;&nbsp;  LeftArrowKey  
-**Jump** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;--> &nbsp;&nbsp;&nbsp;&nbsp;  UpArrowKey  
+**Move Left**  &nbsp; &nbsp;&nbsp; &nbsp;  --> &nbsp;&nbsp;&nbsp;&nbsp;  LeftArrowKey  
+**Jump** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;--> &nbsp;&nbsp;&nbsp;&nbsp;  UpArrowKey  
